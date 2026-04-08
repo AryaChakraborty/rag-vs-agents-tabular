@@ -1,0 +1,16 @@
+[project]
+name = "rag-vs-agents-backend"
+version = "0.1.0"
+description = "FastAPI backend for the RAG vs AI Agents demo"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi>=0.111",
+    "uvicorn[standard]>=0.30",
+    "pandas>=2.2",
+    "openai>=1.40",
+    "python-dotenv>=1.0",
+    "faker>=26.0",
+]
+
+[tool.uv]
+package = false
