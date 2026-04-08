@@ -41,8 +41,8 @@ Built for a LinkedIn demo video — polished UI, dark mode, animated agent reaso
 ### 1. Clone & configure
 
 ```bash
-git clone <your-repo-url>
-cd tabular-agent
+git clone https://github.com/AryaChakraborty/rag-vs-agents-tabular.git
+cd rag-vs-agents-tabular
 cp .env.example .env
 # edit .env and set OPENAI_API_KEY=sk-...   (no spaces around =)
 ```
