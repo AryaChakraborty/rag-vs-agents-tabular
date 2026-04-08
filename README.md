@@ -1,6 +1,6 @@
 # RAG vs AI Agents — a side-by-side demo
 
-A live, side-by-side comparison showing **why AI agents with tools beat RAG for structured / tabular data**. Ask the same natural-language question to both approaches and watch the difference in accuracy, tokens, and latency on a 10,000-row customer dataset.
+A live comparison showing **why AI agents with tools beat RAG for structured / tabular data**. Ask the same natural-language question to both approaches and watch the difference in accuracy, tokens, and latency on a 10,000-row customer dataset.
 
 | | RAG | Agent |
 |---|---|---|
